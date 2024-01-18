@@ -8,7 +8,7 @@ import PhotoIcon from "@mui/icons-material/Photo";
 import BookIcon from "@mui/icons-material/Book";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import "./SearchPage.css";
-import { useStateValue } from "../stateProvider";
+import { useStateValue } from "../State_Provider.jsx";
 import useGoogleSearch from "../useGoogleSearch.jsx";
 function SearchPage() {
   const [{ term }] = useStateValue();

@@ -5,7 +5,7 @@ import MicIcon from "@mui/icons-material/Mic";
 import Stack from "@mui/material/Stack";
 import Button from "@mui/material/Button";
 import { useNavigate } from "react-router-dom";
-import { useStateValue } from "../stateProvider";
+import { useStateValue } from "../State_Provider";
 import { actionTypes } from "../Reducer";
 function Search({ hidebuttons }) {
   const [Input, setInput] = useState("");
