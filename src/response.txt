@@ -1,0 +1,581 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - react",
+        "totalResults": "2580000000",
+        "searchTerms": "react",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "77a30335bb5194dc6"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - react",
+        "totalResults": "2580000000",
+        "searchTerms": "react",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "77a30335bb5194dc6"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.163904,
+    "formattedSearchTime": "0.16",
+    "totalResults": "2580000000",
+    "formattedTotalResults": "2,580,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "React",
+      "htmlTitle": "\u003cb\u003eReact\u003c/b\u003e",
+      "link": "https://react.dev/",
+      "displayLink": "react.dev",
+      "snippet": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.",
+      "htmlSnippet": "\u003cb\u003eReact\u003c/b\u003e is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.",
+      "cacheId": "6wQQd7lXspcJ",
+      "formattedUrl": "https://react.dev/",
+      "htmlFormattedUrl": "https://\u003cb\u003ereact\u003c/b\u003e.dev/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_qDUI7rsC34RLX5gHkInUBp3PbeUk0k6_Pd4DQNxhzoTGTEjBRNaNKBzD",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://react.dev/images/og-home.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "React",
+            "og:title": "React",
+            "og:description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+            "twitter:creator": "@reactjs",
+            "twitter:image": "https://react.dev/images/og-home.png",
+            "next-head-count": "34",
+            "fb:app_id": "623268441017527",
+            "twitter:site": "@reactjs",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+            "og:url": "https://react.dev/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://react.dev/images/og-home.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "React – A JavaScript library for building user interfaces",
+      "htmlTitle": "\u003cb\u003eReact\u003c/b\u003e – A JavaScript library for building user interfaces",
+      "link": "https://legacy.reactjs.org/",
+      "displayLink": "legacy.reactjs.org",
+      "snippet": "React · Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state, then ...",
+      "htmlSnippet": "\u003cb\u003eReact\u003c/b\u003e &middot; Declarative. \u003cb\u003eReact\u003c/b\u003e makes it painless to create interactive UIs. &middot; Component-Based. Build encapsulated components that manage their own state, then&nbsp;...",
+      "cacheId": "Js0JTNZLSZgJ",
+      "formattedUrl": "https://legacy.reactjs.org/",
+      "htmlFormattedUrl": "https://legacy.\u003cb\u003ereact\u003c/b\u003ejs.org/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ckj5CLZitzYAlmj6QZjvlnO7HxTYPjJLSMkgDMtQpxTYcC5vbrw9z_C7",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://legacy.reactjs.org/logo-og.png",
+            "og:type": "website",
+            "fb:app_id": "623268441017527",
+            "theme-color": "#20232a",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-title": "React",
+            "og:title": "React – A JavaScript library for building user interfaces",
+            "og:url": "https://legacy.reactjs.org/",
+            "og:description": "A JavaScript library for building user interfaces"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://legacy.reactjs.org/logo-og.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Quick Start – React",
+      "htmlTitle": "Quick Start – \u003cb\u003eReact\u003c/b\u003e",
+      "link": "https://react.dev/learn",
+      "displayLink": "react.dev",
+      "snippet": "Creating and nesting components. React apps are made out of components. A component is a piece of the UI (user interface) that has its own logic and appearance.",
+      "htmlSnippet": "Creating and nesting components. \u003cb\u003eReact\u003c/b\u003e apps are made out of components. A component is a piece of the UI (user interface) that has its own logic and appearance.",
+      "cacheId": "SezAUPqmvq8J",
+      "formattedUrl": "https://react.dev/learn",
+      "htmlFormattedUrl": "https://\u003cb\u003ereact\u003c/b\u003e.dev/learn",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflvx0JyBF0ZBLtBDwf7kQQ4wzdqSwR4eO5GjK99Urx98x2Wtkc1DGEaSt",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://react.dev/images/og-learn.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Quick Start – React",
+            "og:title": "Quick Start – React",
+            "og:description": "The library for web and native user interfaces",
+            "twitter:creator": "@reactjs",
+            "twitter:image": "https://react.dev/images/og-learn.png",
+            "next-head-count": "34",
+            "fb:app_id": "623268441017527",
+            "twitter:site": "@reactjs",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "The library for web and native user interfaces",
+            "algolia-search-order": "3",
+            "og:url": "https://react.dev/learn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://react.dev/images/og-learn.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Getting Started – React",
+      "htmlTitle": "Getting Started – \u003cb\u003eReact\u003c/b\u003e",
+      "link": "https://legacy.reactjs.org/docs/getting-started.html",
+      "displayLink": "legacy.reactjs.org",
+      "snippet": "Getting Started. These docs are old and won't be updated. Go to react.dev for the new React docs. The new Quick Start teaches modern React and includes live ...",
+      "htmlSnippet": "Getting Started. These docs are old and won&#39;t be updated. Go to \u003cb\u003ereact\u003c/b\u003e.dev for the new \u003cb\u003eReact\u003c/b\u003e docs. The new Quick Start teaches modern \u003cb\u003eReact\u003c/b\u003e and includes live&nbsp;...",
+      "cacheId": "Cs1Tr_6ERL8J",
+      "formattedUrl": "https://legacy.reactjs.org/docs/getting-started.html",
+      "htmlFormattedUrl": "https://legacy.\u003cb\u003ereact\u003c/b\u003ejs.org/docs/getting-started.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ckj5CLZitzYAlmj6QZjvlnO7HxTYPjJLSMkgDMtQpxTYcC5vbrw9z_C7",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://legacy.reactjs.org/logo-og.png",
+            "og:type": "article",
+            "fb:app_id": "623268441017527",
+            "theme-color": "#20232a",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-title": "React",
+            "og:title": "Getting Started – React",
+            "og:url": "https://legacy.reactjs.org/docs/getting-started.html",
+            "og:description": "A JavaScript library for building user interfaces"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://legacy.reactjs.org/logo-og.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tutorial: Tic-Tac-Toe – React",
+      "htmlTitle": "Tutorial: Tic-Tac-Toe – \u003cb\u003eReact\u003c/b\u003e",
+      "link": "https://react.dev/learn/tutorial-tic-tac-toe",
+      "displayLink": "react.dev",
+      "snippet": "When an element is created, React extracts the key property and stores the key directly on the returned element. Even though key may look like it is passed as ...",
+      "htmlSnippet": "When an element is created, \u003cb\u003eReact\u003c/b\u003e extracts the key property and stores the key directly on the returned element. Even though key may look like it is passed as&nbsp;...",
+      "cacheId": "KAj9aXUKAbkJ",
+      "formattedUrl": "https://react.dev/learn/tutorial-tic-tac-toe",
+      "htmlFormattedUrl": "https://\u003cb\u003ereact\u003c/b\u003e.dev/learn/tutorial-tic-tac-toe",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflvx0JyBF0ZBLtBDwf7kQQ4wzdqSwR4eO5GjK99Urx98x2Wtkc1DGEaSt",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://react.dev/images/og-learn.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Tutorial: Tic-Tac-Toe – React",
+            "og:title": "Tutorial: Tic-Tac-Toe – React",
+            "og:description": "The library for web and native user interfaces",
+            "twitter:creator": "@reactjs",
+            "twitter:image": "https://react.dev/images/og-learn.png",
+            "next-head-count": "34",
+            "fb:app_id": "623268441017527",
+            "twitter:site": "@reactjs",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "The library for web and native user interfaces",
+            "algolia-search-order": "4",
+            "og:url": "https://react.dev/learn/tutorial-tic-tac-toe"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://react.dev/images/og-learn.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "remix-run/react-router: Declarative routing for React - GitHub",
+      "htmlTitle": "remix-run/react-router: Declarative routing for React - GitHub",
+      "link": "https://github.com/remix-run/react-router",
+      "displayLink": "github.com",
+      "snippet": "Declarative routing for React. Contribute to remix-run/react-router development by creating an account on GitHub.",
+      "htmlSnippet": "Declarative routing for \u003cb\u003eReact\u003c/b\u003e. Contribute to remix-run/\u003cb\u003ereact\u003c/b\u003e-router development by creating an account on GitHub.",
+      "cacheId": "iAgdYOlgfFEJ",
+      "formattedUrl": "https://github.com/remix-run/react-router",
+      "htmlFormattedUrl": "https://github.com/remix-run/\u003cb\u003ereact\u003c/b\u003e-router",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5iCBlllJaKZYbKb4h8ulEO62e7ZwkkEzcHwaAwHRIZT8ZCO_62DrVqGI",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "author": "remix-run",
+            "name": "react-router",
+            "text": "Welcome to React Router · React Router is a lightweight, fully-featured routing library for the React JavaScript library. React Router runs everywhere that React runs; on the web, on the server..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/remix-run/react-router",
+            "og:image": "https://opengraph.githubassets.com/c1cf4e83438a19d681107f940a9c07124d538e4248a4c10ad8080c4a37bf79d3/remix-run/react-router",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:19872456",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "107cae1e6a2f456b6cefa15b068c86b5215f147eb62c7be5d561d0279b0d00b2",
+            "expected-hostname": "github.com",
+            "og:description": "Declarative routing for React. Contribute to remix-run/react-router development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "remix-run",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMjY3OjlDRjI6Nzk5MzA0OkI0OTM2NDo2NUE2NkJGNyIsInZpc2l0b3JfaWQiOiIxNTE5NjM5NDYzNDUwNzk5MDk2IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "19872456",
+            "octolytics-dimension-repository_network_root_nwo": "remix-run/react-router",
+            "twitter:title": "GitHub - remix-run/react-router: Declarative routing for React",
+            "og:image:alt": "Declarative routing for React. Contribute to remix-run/react-router development by creating an account on GitHub.",
+            "og:type": "object",
+            "optimizely-datafile": "{\"accountId\": \"16737760170\", \"projectId\": \"16737760170\", \"revision\": \"23\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"audiences\": [{\"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\", \"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\"}], \"version\": \"4\", \"events\": [{\"id\": \"18188530140\", \"experimentIds\": [], \"key\": \"test_event\"}], \"integrations\": [], \"anonymizeIP\": true, \"botFiltering\": false, \"typedAudiences\": [], \"variables\": [], \"environmentKey\": \"production\", \"sdkKey\": \"UpVyJZaLVEGwJPQWf5pAD\", \"featureFlags\": [], \"rollouts\": [],",
+            "og:title": "GitHub - remix-run/react-router: Declarative routing for React",
+            "visitor-hmac": "4fd3c3e5bf3c1437e7600e7858e5208b8af994848b3f2907c7c069f0d6a5b78f",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "D267:9CF2:799304:B49364:65A66BF7",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/remix-run/react-router git https://github.com/remix-run/react-router.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/c1cf4e83438a19d681107f940a9c07124d538e4248a4c10ad8080c4a37bf79d3/remix-run/react-router",
+            "octolytics-dimension-user_id": "64235328",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "19872456",
+            "octolytics-dimension-repository_nwo": "remix-run/react-router",
+            "viewport": "width=device-width",
+            "twitter:description": "Declarative routing for React. Contribute to remix-run/react-router development by creating an account on GitHub.",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/remix-run/react-router"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/c1cf4e83438a19d681107f940a9c07124d538e4248a4c10ad8080c4a37bf79d3/remix-run/react-router"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Neurological Recovery | React Neuro-rehab | Addison",
+      "htmlTitle": "Neurological Recovery | \u003cb\u003eReact\u003c/b\u003e Neuro-rehab | Addison",
+      "link": "https://www.neuroreaction.org/",
+      "displayLink": "www.neuroreaction.org",
+      "snippet": "REACT exists to empower the millions battling neurological injury and disease through exerise and community. We blend strength & conditioning, neuroscience, ...",
+      "htmlSnippet": "\u003cb\u003eREACT\u003c/b\u003e exists to empower the millions battling neurological injury and disease through exerise and community. We blend strength &amp; conditioning, neuroscience,&nbsp;...",
+      "cacheId": "YKe8K2HXwjsJ",
+      "formattedUrl": "https://www.neuroreaction.org/",
+      "htmlFormattedUrl": "https://www.neuro\u003cb\u003ereact\u003c/b\u003eion.org/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAI2Wmv8-Mv5tqrXgq9Pte5XbO9vN-fxyRz3SnRaLkJXaRYsSOwfE7ww",
+            "width": "126",
+            "height": "400"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Neurological Recovery | React Neuro-rehab | Addison",
+            "og:site_name": "Bachik Methods",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "viewport": "width=320, user-scalable=yes",
+            "twitter:description": "REACT exists to empower the millions battling neurological injury and disease through exerise and community.  We blend strength & conditioning, neuroscience, passion and experience to deliver a powerful training approach to neuro-recovery. Take back your life; become the alpha in your recovery! Apply today or connect with a member of our team for more info.",
+            "og:title": "Neurological Recovery | React Neuro-rehab | Addison",
+            "og:url": "https://www.neuroreaction.org",
+            "og:description": "REACT exists to empower the millions battling neurological injury and disease through exerise and community.  We blend strength & conditioning, neuroscience, passion and experience to deliver a powerful training approach to neuro-recovery. Take back your life; become the alpha in your recovery! Apply today or connect with a member of our team for more info.",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.wixstatic.com/media/35e9b5_879f7afc9f5a462f9562154f1bb9ea7d~mv2.jpg/v1/fill/w_632,h_2000,al_c,q_85,enc_auto/35e9b5_879f7afc9f5a462f9562154f1bb9ea7d~mv2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "facebook/react: The library for web and native user interfaces. - GitHub",
+      "htmlTitle": "facebook/react: The library for web and native user interfaces. - GitHub",
+      "link": "https://github.com/facebook/react",
+      "displayLink": "github.com",
+      "snippet": "The main purpose of this repository is to continue evolving React core, making it faster and easier to use. Development of React happens in the open on GitHub, ...",
+      "htmlSnippet": "The main purpose of this repository is to continue evolving \u003cb\u003eReact\u003c/b\u003e core, making it faster and easier to use. Development of \u003cb\u003eReact\u003c/b\u003e happens in the open on GitHub,&nbsp;...",
+      "cacheId": "lergKLB9zNkJ",
+      "formattedUrl": "https://github.com/facebook/react",
+      "htmlFormattedUrl": "https://github.com/facebook/\u003cb\u003ereact\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtHOP_BizPmifamRhcPT9yeBi9jXAJ6alcts8yPkTZvRGzUVMaZ6AqFEs",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "author": "facebook",
+            "name": "react",
+            "text": "React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application,..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/facebook/react",
+            "og:image": "https://opengraph.githubassets.com/9614a67ea51dcb64bdfecbb1cc05edcfda7e6ee86654fa2aa1ecce38bab4c6f9/facebook/react",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:10270250",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "f522eaf48f95f81c86632c7510fe4d6aefde6437c287db40ddb4fcfe48633150",
+            "expected-hostname": "github.com",
+            "og:description": "The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "facebook",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4OTJFOjY3MjQ6NzhFQjNFOkIzOTY0Njo2NUE2NkExNCIsInZpc2l0b3JfaWQiOiI2OTM0MDEzNTk0ODY0ODcxOTU3IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "10270250",
+            "octolytics-dimension-repository_network_root_nwo": "facebook/react",
+            "twitter:title": "GitHub - facebook/react: The library for web and native user interfaces.",
+            "og:image:alt": "The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub.",
+            "og:type": "object",
+            "optimizely-datafile": "{\"accountId\": \"16737760170\", \"projectId\": \"16737760170\", \"revision\": \"23\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"audiences\": [{\"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\", \"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\"}], \"version\": \"4\", \"events\": [{\"id\": \"18188530140\", \"experimentIds\": [], \"key\": \"test_event\"}], \"integrations\": [], \"anonymizeIP\": true, \"botFiltering\": false, \"typedAudiences\": [], \"variables\": [], \"environmentKey\": \"production\", \"sdkKey\": \"UpVyJZaLVEGwJPQWf5pAD\", \"featureFlags\": [], \"rollouts\": [],",
+            "og:title": "GitHub - facebook/react: The library for web and native user interfaces.",
+            "visitor-hmac": "41fca01efce830e271e62b7b054b4cef54f4735e562edec98985b523f01fc443",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "892E:6724:78EB3E:B39646:65A66A14",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/facebook/react git https://github.com/facebook/react.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/9614a67ea51dcb64bdfecbb1cc05edcfda7e6ee86654fa2aa1ecce38bab4c6f9/facebook/react",
+            "octolytics-dimension-user_id": "69631",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "10270250",
+            "octolytics-dimension-repository_nwo": "facebook/react",
+            "viewport": "width=device-width",
+            "twitter:description": "The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub.",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/facebook/react"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/9614a67ea51dcb64bdfecbb1cc05edcfda7e6ee86654fa2aa1ecce38bab4c6f9/facebook/react"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What is React",
+      "htmlTitle": "What is \u003cb\u003eReact\u003c/b\u003e",
+      "link": "https://www.w3schools.com/whatis/whatis_react.asp",
+      "displayLink": "www.w3schools.com",
+      "snippet": "React Elements. React applications are usually built around a single HTML element. ... React elements are immutable. They cannot be changed. The only way to ...",
+      "htmlSnippet": "\u003cb\u003eReact\u003c/b\u003e Elements. \u003cb\u003eReact\u003c/b\u003e applications are usually built around a single HTML element. ... \u003cb\u003eReact\u003c/b\u003e elements are immutable. They cannot be changed. The only way to&nbsp;...",
+      "cacheId": "OMMXOohbTAAJ",
+      "formattedUrl": "https://www.w3schools.com/whatis/whatis_react.asp",
+      "htmlFormattedUrl": "https://www.w3schools.com/whatis/whatis_\u003cb\u003ereact\u003c/b\u003e.asp",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmxxqmfkuk6cM9IllPw0E6qsoYHMlBHFGXW3F5S6O6BA1KLnARzYS7FvA",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#00a300",
+            "og:image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+            "og:image:width": "436",
+            "theme-color": "#ffffff",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:image:height": "228",
+            "og:image:type": "image/png",
+            "og:description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.w3schools.com/whatis/img_react.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "reduxjs/react-redux: Official React bindings for Redux - GitHub",
+      "htmlTitle": "reduxjs/react-redux: Official React bindings for Redux - GitHub",
+      "link": "https://github.com/reduxjs/react-redux",
+      "displayLink": "github.com",
+      "snippet": "Official React bindings for Redux. Contribute to reduxjs/react-redux development by creating an account on GitHub.",
+      "htmlSnippet": "Official \u003cb\u003eReact\u003c/b\u003e bindings for Redux. Contribute to reduxjs/\u003cb\u003ereact\u003c/b\u003e-redux development by creating an account on GitHub.",
+      "cacheId": "Z2OWfn_1c5UJ",
+      "formattedUrl": "https://github.com/reduxjs/react-redux",
+      "htmlFormattedUrl": "https://github.com/reduxjs/\u003cb\u003ereact\u003c/b\u003e-redux",
+      "pagemap": {
+        "softwaresourcecode": [
+          {
+            "author": "reduxjs",
+            "name": "react-redux",
+            "text": "React Redux Official React bindings for Redux. Performant and flexible. Installation Create a React Redux App The recommended way to start new apps with React and Redux is by using our official..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/reduxjs/react-redux",
+            "og:image": "https://opengraph.githubassets.com/f21ca0e52925c7361e3a984029d406fe9d4d6583b3505a5d06f48a61ba7772a7/reduxjs/react-redux",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:38934449",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "a7cff42dfbc29699680b8057fae8bc105a6160157e274313750243e00a4783cb",
+            "expected-hostname": "github.com",
+            "og:description": "Official React bindings for Redux. Contribute to reduxjs/react-redux development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "reduxjs",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMDREOjgyNzk6MzkyODg1MTo1MTI1NDE2OjY1QTYyMzg0IiwidmlzaXRvcl9pZCI6IjQ0NDQzOTIzNTM4NDkyODc1NTkiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "38934449",
+            "octolytics-dimension-repository_network_root_nwo": "reduxjs/react-redux",
+            "twitter:title": "GitHub - reduxjs/react-redux: Official React bindings for Redux",
+            "og:image:alt": "Official React bindings for Redux. Contribute to reduxjs/react-redux development by creating an account on GitHub.",
+            "og:type": "object",
+            "optimizely-datafile": "{\"accountId\": \"16737760170\", \"projectId\": \"16737760170\", \"revision\": \"23\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"audiences\": [{\"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\", \"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\"}], \"version\": \"4\", \"events\": [{\"id\": \"18188530140\", \"experimentIds\": [], \"key\": \"test_event\"}], \"integrations\": [], \"anonymizeIP\": true, \"botFiltering\": false, \"typedAudiences\": [], \"variables\": [], \"environmentKey\": \"production\", \"sdkKey\": \"UpVyJZaLVEGwJPQWf5pAD\", \"featureFlags\": [], \"rollouts\": [],",
+            "og:title": "GitHub - reduxjs/react-redux: Official React bindings for Redux",
+            "visitor-hmac": "20c032713baef411181b2101c2c3c94ff2aed14598b3c144e3ac8c1674698952",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "B04D:8279:3928851:5125416:65A62384",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/reduxjs/react-redux git https://github.com/reduxjs/react-redux.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/f21ca0e52925c7361e3a984029d406fe9d4d6583b3505a5d06f48a61ba7772a7/reduxjs/react-redux",
+            "octolytics-dimension-user_id": "13142323",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "38934449",
+            "octolytics-dimension-repository_nwo": "reduxjs/react-redux",
+            "viewport": "width=device-width",
+            "twitter:description": "Official React bindings for Redux. Contribute to reduxjs/react-redux development by creating an account on GitHub.",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/reduxjs/react-redux"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/f21ca0e52925c7361e3a984029d406fe9d4d6583b3505a5d06f48a61ba7772a7/reduxjs/react-redux"
+          }
+        ]
+      }
+    }
+  ]
+}
